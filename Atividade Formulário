@@ -1,1 +1,15 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Busca</title>
+</head>
+<body>
+    <form action="/buscar" method="GET">
+        <input type="search" name="q" placeholder="Digite sua busca..." required>
+        <button type="submit">Pesquisar</button>
+        <button type="reset">Cancelar</button>
+    </form>
+</body>
+</html>

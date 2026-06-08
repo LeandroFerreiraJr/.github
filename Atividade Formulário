@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Buscar...</title>
+    <title>BuscadorExperimental</title>
 </head>
 <body>
     <form action="https://www.google.com/search" method="GET" target="_blank">
